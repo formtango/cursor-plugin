@@ -1,0 +1,14 @@
+{
+  "name": "formtango",
+  "displayName": "FormTango",
+  "version": "0.1.0",
+  "description": "Add working forms to any website with FormTango: create a form endpoint, wire up the HTML, and read submissions. Submissions are stored, spam-filtered and emailed to the owner, with no backend code.",
+  "author": {
+    "name": "FormTango"
+  },
+  "homepage": "https://formtango.com/ai",
+  "repository": "https://github.com/formtango/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["forms", "contact-form", "form-backend", "static-site", "email", "mcp"],
+  "logo": "assets/logo.svg"
+}
